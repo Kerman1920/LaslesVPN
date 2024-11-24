@@ -1,0 +1,562 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header {
+    margin: auto;
+    margin-top: 20px;
+    width: 1500px;
+    height: 50px;
+    display: flex;
+    gap: 300px;
+
+}
+
+.sign {
+    display: flex;
+    gap: 30px;
+    width: 250px;
+    height: 45px;
+
+}
+
+.link {
+    gap: 40px;
+    display: flex;
+}
+
+.sign_text {
+    /* Sign In */
+
+    width: 50px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    color: #0B132A;
+
+
+}
+
+.logo {
+    /* Logo */
+
+
+    width: 149px;
+    height: 36.23px;
+
+
+
+}
+
+.sign_button {
+    /* Button/signup */
+
+    width: 150px;
+    height: 45px;
+
+
+
+
+    /* Rectangle 249 */
+
+    box-sizing: border-box;
+
+
+  
+
+
+    border: 1px solid #F53855;
+    border-radius: 50px;
+
+
+    /* Sign Up */
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    color: #F53855;
+
+
+}
+
+
+.center{
+    width: 1200px;
+    height: 380px;
+    margin-left: 380px;
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.center__title{
+    margin-top: 10px;
+    /* Want anything to be easy with LaslesVPN. */
+
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 70px;
+/* or 140% */
+
+color: #0B132A;
+
+
+}
+
+
+
+
+.wreeee{
+    width: 555px;
+height: 140px;
+
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 70px;
+/* or 140% */
+
+color: #0B132A;
+
+}
+
+.center__text{
+    /* Provide a network for all your needs with ease and fun using LaslesVPN discover interesting features from us. */
+margin-top: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+color: #4F5665;
+
+
+}
+
+.center__button{
+    width: 250px;
+    height: 60px;
+    /* Get Started */
+
+
+margin-top: 20px;
+
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height, or 156% */
+
+color: #FFFFFF;
+
+
+border: 1px solid red;
+background-color: red;
+border-radius: 15px;
+
+box-shadow: 0px 10px 40px red;
+}
+
+
+.center__left{
+    width: 1000px;
+  
+    
+}
+
+.cards{
+    margin-top: 40px;
+    margin-left: 380px;
+    display: flex;
+    width: 1200px;
+    height: 200px;
+    box-shadow: 0px 10px 100px rgb(196, 190, 190);
+    
+}
+
+.card{
+    display: flex;
+    width: 275px;
+    vertical-align: middle;
+    height: 125px;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-top: 70px;
+    
+    
+}
+
+hr{
+    margin-left: 130px;
+    height: 100px;
+}
+
+.left{
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+.card__title{
+    /* 90+ */
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 120% */
+
+color: #0B132A;
+
+
+}
+
+.right{
+    margin-top: 5px;
+}
+
+.article{
+    width: 1440px;
+    display: flex;
+    margin-left: 380px;
+    margin-top: 40px;
+}
+
+
+li{
+    text-decoration: none;
+
+    /* Powerfull online protection. */
+
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+color: #4F5665;
+
+
+}
+
+.article__title{
+    /* We Provide Many Features You Can Use */
+
+
+width: 500px;
+height: 70px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 40px;
+/* or 143% */
+
+color: #0B132A;
+
+
+}
+
+.article__right{
+    width: 600px;
+    margin-left: 100px;
+}
+
+
+
+.article__text{
+    /* You can explore the features that we provide with fun and have their own functions each feature. */
+
+margin-top: 30px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+color: #4F5665;
+
+
+}
+
+
+.plan{
+    /* Choose Your Plan */
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* identical to box height, or 143% */
+text-align: center;
+
+color: #0B132A;
+
+
+}
+
+.choose{
+    /* Let's choose the package that is best for you and explore it happily and cheerfully. */
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+text-align: center;
+
+color: #4F5665;
+
+
+}
+
+.cardss{
+    width: 1100px;
+    height: 760px;
+    margin-left: 500px;
+    display: flex;
+    gap: 150px;
+}
+
+.cardd{
+    width: 330px;
+    height: 760px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+.cardss__title{
+    /* Free Plan */
+
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+text-align: center;
+
+color: #0B132A;
+
+
+}
+
+
+
+
+.cardd__title{
+
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+text-align: center;
+
+color: #0B132A;
+margin-top: 300px;
+
+}
+
+
+.select{
+    /* Rectangle 273 */
+
+box-sizing: border-box;
+
+margin-left: 40px;
+width: 177.88px;
+height: 45px;
+
+background-color: white;
+border: 2px solid #F53838;
+border-radius: 50px;
+
+
+
+/* Select */
+
+position: absolute;
+
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #F53838;
+
+
+}
+
+
+.sselect{
+    /* Rectangle 273 */
+
+
+width: 177.88px;
+height: 45px;
+margin-left: 40px;
+
+background: #F53838;
+border-radius: 50px;
+border: 2px solid #F53838;
+
+
+
+
+/* Select */
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+}
+
+
+.cardd__text{
+    /* Group 1237 */
+
+margin-left: 25px;
+
+/* Unlimited Bandwitch */
+
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+color: #4F5665;
+
+
+
+/* Group 1223 */
+
+
+/* jam:check */
+
+
+
+
+/* Vector */
+
+
+
+}
+
+
+.map__title{
+    /* Huge Global Network of Fast VPN */
+width: 330px;
+margin-left: 850px;
+margin-top: 100px;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+text-align: center;
+
+color: #0B132A;
+
+
+}
+
+.map__text{
+    /* See LaslesVPN everywhere to make it easier for you when you move locations. */
+
+
+width: 555px;
+margin-left: 800px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+text-align: center;
+
+color: #4F5665;
+
+
+}
+
+.map__img{
+    margin-left:450px;
+    margin-top: 100px;
+}
+
+
+.trusted__title{
+/* Trusted by Thousands of Happy Customer */
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+text-align: center;
+
+color: #0B132A;
+
+
+}
+
+.trusted__text{
+    /* These are the stories of our customers who have joined us with great pleasure when using this crazy feature. */
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+text-align: center;
+
+color: #4F5665;
+
+
+}
+
+.trusted__card{
+    width: 600px;
+    height: 230px;
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+    margin-left: 220px;
+}
+
+.trusted__cards{
+    display: flex;
+    align-items: center;
+    
+    gap: 50px;
+}
+
+.Group{
+    margin-top: 50px;
+    margin-left: 150px;
+}
